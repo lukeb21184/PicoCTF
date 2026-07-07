@@ -1,4 +1,4 @@
-# picoCTF Writeups
+# PicoCTF Writeups
 
 Welcome to my collection of **picoCTF** challenge writeups. This repository documents my learning journey as I develop practical cybersecurity skills through Capture The Flag (CTF) challenges.
 
