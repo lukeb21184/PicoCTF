@@ -12,16 +12,6 @@ I'm a Cybersecurity student at Purdue University with an interest in reverse eng
 
 ## Repository Structure
 
-picoCTF/
-├── Binary-Exploitation/
-├── Cryptography/
-├── Forensics/
-├── General-Skills/
-├── Reverse-Engineering/
-├── Web-Exploitation/
-└── README.md
-
-
 Each challenge folder typically contains:
 
 * `README.md` or `writeup.md` – Challenge overview and solution methodology
